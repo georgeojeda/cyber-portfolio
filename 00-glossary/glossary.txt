@@ -6,5 +6,5 @@ Alert - simply means that a suspicious pattern was flagged and someone should lo
 
 False positive - an alert that turned out to be harmless, like an employee getting their password wrong multiple times.
 
-Incident - is an alert that was properly escalated and confirmed to be a real security event, like an attacker gaining access to someone's account.
+Incident - a confirmed or likely real security event, like an attacker gaining access to someone’s account. It usually needs investigation and a response.
 

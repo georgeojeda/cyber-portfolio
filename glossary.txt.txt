@@ -1,0 +1,10 @@
+Log - a record of events that happen on any given system, like a computer recording that someone failed to log in at 2:00am.
+
+SIEM - a tool used to collect logs from multiple different systems into to one place and then analyze them.
+
+Alert - simply means that a suspicious pattern was flagged and someone should look into it.
+
+False positive - an alert that turned out to be harmless, like an employee getting their password wrong multiple times.
+
+Incident - is an alert that was properly escalated and confirmed to be a real security event, like an attacker gaining access to someone's account.
+
